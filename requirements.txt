@@ -19,6 +19,7 @@ mock
 # Production Server
 # ----------------------
 gevent
+eventlet
 gunicorn
 mongoengine
 
